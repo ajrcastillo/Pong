@@ -12,6 +12,6 @@ end
 
 function love.draw()
 	love.graphics.printf(
-		"Hello Pong", 0, WINDOW_HEIGHT / 2 -6, WINDOW_WIDTH, 'center'
+		"Hello there", 0, WINDOW_HEIGHT / 2 -6, WINDOW_WIDTH, 'center'
 	)
 end
